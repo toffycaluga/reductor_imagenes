@@ -21,7 +21,7 @@ Puedes instalar estas bibliotecas ejecutando el siguiente comando:
 
 2. Abre una terminal y navega hasta el directorio del proyecto.
 
-3.     Ejecuta el siguiente comando para instalar las dependencias que has definido en tu archivo package.json:
+3. Ejecuta el siguiente comando para instalar las dependencias que has definido en tu archivo package.json:
 
 ```bash
 
